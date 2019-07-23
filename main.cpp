@@ -53,7 +53,7 @@ int main()
             ans = mymax(ans, (tot + dis[i]) / spd[i]);
         }
 
-        printf("%.10lf\n", ans);
+        cout<<ans<<'\n';
     }
 
     return 0;
