@@ -54,6 +54,7 @@ int main()
         }
 
         printf("%.10lf\n", ans);
+
     }
 
     return 0;
